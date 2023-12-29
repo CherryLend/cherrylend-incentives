@@ -1,0 +1,7 @@
+[
+    {"threshold": 500000, "reward": 10000},
+    {"threshold": 50000, "reward": 1000},
+    {"threshold": 10000, "reward": 100},
+    {"threshold": 1000, "reward": 10},
+    {"threshold": 0, "reward": 5}
+]
