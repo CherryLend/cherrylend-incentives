@@ -1,7 +1,7 @@
 [
-    {"threshold": 500000, "reward": 10000},
-    {"threshold": 50000, "reward": 1000},
-    {"threshold": 10000, "reward": 100},
-    {"threshold": 1000, "reward": 10},
-    {"threshold": 0, "reward": 5}
+    {"threshold": 500000, "reward": 10000, "tier": "Cherry Sundae Tier"},
+    {"threshold": 50000, "reward": 1000, "tier": "Cherry Pastry Tier"},
+    {"threshold": 10000, "reward": 100, "tier": "Cherry Cobbler Tier"},
+    {"threshold": 1000, "reward": 10, "tier": "Cherry Cheesecake Tier"},
+    {"threshold": 0, "reward": 5, "tier": "Cherry Pie Tier"}
 ]
