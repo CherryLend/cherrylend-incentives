@@ -1,7 +1,7 @@
 [
-    {"threshold": 500000, "reward": 40000, "chryBonus": 0.1, "tier": "Cherry Sundae Tier"},
-    {"threshold": 50000, "reward": 4000, "chryBonus": 0.1, "tier": "Cherry Pastry Tier"},
-    {"threshold": 10000, "reward": 400, "chryBonus": 0.1, "tier": "Cherry Cobbler Tier"},
-    {"threshold": 1000, "reward": 40, "chryBonus": 0.1, "tier": "Cherry Cheesecake Tier"},
-    {"threshold": 0, "reward": 20, "chryBonus": 0.1, "tier": "Cherry Pie Tier"}
+    {"threshold": 500000, "reward": 20000, "chryBonus": 0.1, "tier": "Cherry Sundae Tier"},
+    {"threshold": 50000, "reward": 2000, "chryBonus": 0.1, "tier": "Cherry Pastry Tier"},
+    {"threshold": 10000, "reward": 200, "chryBonus": 0.1, "tier": "Cherry Cobbler Tier"},
+    {"threshold": 1000, "reward": 20, "chryBonus": 0.1, "tier": "Cherry Cheesecake Tier"},
+    {"threshold": 0, "reward": 10, "chryBonus": 0.1, "tier": "Cherry Pie Tier"}
 ]
